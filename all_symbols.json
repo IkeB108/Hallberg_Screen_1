@@ -1,0 +1,1022 @@
+{
+  "0": {
+    "name": "therefore",
+    "variableName": "lang_english_therefore",
+    "x": 93.01446859124596,
+    "y": 2781.3655587425474,
+    "size_multiplier": 0.27399999999999997,
+    "highlighted": false,
+    "w": 263.6628122866894,
+    "h": 55.60236177474402
+  },
+  "1": {
+    "name": "therefore",
+    "variableName": "lang_dnd_dwarvish_therefore",
+    "x": 252.9836746055139,
+    "y": 3060.1245425866796,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 270.83731058020476,
+    "h": 35.87249146757679
+  },
+  "2": {
+    "name": "therefore",
+    "variableName": "lang_dnd_elvish_therefore",
+    "x": 17.08672350979882,
+    "y": 2843.8132172017677,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 179.96033219567693,
+    "h": 53.210862343572245
+  },
+  "3": {
+    "name": "therefore",
+    "variableName": "lang_dnd_giant_therefore",
+    "x": 328.7378948302501,
+    "y": 2903.410375813898,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 170.9922093287827,
+    "h": 31.08949260523322
+  },
+  "4": {
+    "name": "therefore",
+    "variableName": "lang_dnd_gnomish_therefore",
+    "x": 41.60278162284067,
+    "y": 3269.460990395693,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 246.32444141069396,
+    "h": 35.27461660978385
+  },
+  "5": {
+    "name": "therefore",
+    "variableName": "lang_lotr_elvish_therefore",
+    "x": 7.851624141707077,
+    "y": 3030.704388460598,
+    "size_multiplier": 0.36533333333333334,
+    "highlighted": false,
+    "w": 117.18347212741753,
+    "h": 114.79197269624575
+  },
+  "6": {
+    "name": "it",
+    "variableName": "lang_english_it",
+    "x": 235.11224414196528,
+    "y": 2841.347838627991,
+    "size_multiplier": 0.27399999999999997,
+    "highlighted": false,
+    "w": 42.53452559726962,
+    "h": 49.70902389078498
+  },
+  "7": {
+    "name": "it",
+    "variableName": "lang_dnd_dwarvish_it",
+    "x": 353.3613355016576,
+    "y": 3104.8394979561695,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 50.81936291240046,
+    "h": 31.08949260523322
+  },
+  "8": {
+    "name": "it",
+    "variableName": "lang_dnd_elvish_it",
+    "x": 21.992679721926496,
+    "y": 2893.7956282342207,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 38.26399089874858,
+    "h": 35.27461660978385
+  },
+  "9": {
+    "name": "it",
+    "variableName": "lang_dnd_giant_it",
+    "x": 364.3481137378405,
+    "y": 2949.7543555623097,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 32.88311717861206,
+    "h": 27.50224345847554
+  },
+  "10": {
+    "name": "it",
+    "variableName": "lang_dnd_gnomish_it",
+    "x": 323.49615131088234,
+    "y": 3270.1126711431584,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 55.00448691695108,
+    "h": 35.27461660978385
+  },
+  "11": {
+    "name": "it",
+    "variableName": "lang_lotr_elvish_it",
+    "x": 138.071536201928,
+    "y": 3034.765228389953,
+    "size_multiplier": 0.36533333333333334,
+    "highlighted": false,
+    "w": 89.16876450511946,
+    "h": 118.20840045506257
+  },
+  "12": {
+    "name": "was",
+    "variableName": "lang_english_was",
+    "x": 301.7312178078077,
+    "y": 2855.10808968269,
+    "size_multiplier": 0.27399999999999997,
+    "highlighted": false,
+    "w": 105.82384982935153,
+    "h": 36.64118771331058
+  },
+  "13": {
+    "name": "was",
+    "variableName": "lang_dnd_dwarvish_was",
+    "x": 438.86346523854604,
+    "y": 3103.662542754695,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 77.12585665529011,
+    "h": 32.285242320819115
+  },
+  "14": {
+    "name": "was",
+    "variableName": "lang_dnd_elvish_was",
+    "x": 94.21069308281331,
+    "y": 2893.815025933914,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 68.1577337883959,
+    "h": 34.07886689419795
+  },
+  "15": {
+    "name": "was",
+    "variableName": "lang_dnd_giant_was",
+    "x": 423.68662235883886,
+    "y": 2947.8900545196375,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 63.97260978384528,
+    "h": 27.50224345847554
+  },
+  "16": {
+    "name": "was",
+    "variableName": "lang_dnd_gnomish_was",
+    "x": 418.59498194315466,
+    "y": 3264.2205628376946,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 62.77686006825938,
+    "h": 35.87249146757679
+  },
+  "17": {
+    "name": "was",
+    "variableName": "lang_lotr_elvish_was",
+    "x": 56.497498445129544,
+    "y": 3121.0065674052116,
+    "size_multiplier": 0.36533333333333334,
+    "highlighted": false,
+    "w": 93.61012059158134,
+    "h": 121.62482821387943
+  },
+  "18": {
+    "name": "called",
+    "variableName": "lang_english_called",
+    "x": 173.88222624278356,
+    "y": 2898.5621957975122,
+    "size_multiplier": 0.27399999999999997,
+    "highlighted": false,
+    "w": 155.27664163822524,
+    "h": 58.164682593856654
+  },
+  "19": {
+    "name": "called",
+    "variableName": "lang_dnd_dwarvish_called",
+    "x": 354.7450639774541,
+    "y": 3150.532593049943,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 162.62196131968145,
+    "h": 37.068241183162684
+  },
+  "20": {
+    "name": "called",
+    "variableName": "lang_dnd_elvish_called",
+    "x": 12.687267129452405,
+    "y": 2940.0979119310678,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 120.17284641638226,
+    "h": 37.66611604095563
+  },
+  "21": {
+    "name": "called",
+    "variableName": "lang_dnd_giant_called",
+    "x": 361.50096268322864,
+    "y": 2981.1699970722875,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 101.63872582480091,
+    "h": 39.45974061433447
+  },
+  "22": {
+    "name": "called",
+    "variableName": "lang_dnd_gnomish_called",
+    "x": 217.2892810315241,
+    "y": 3316.711034775986,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 125.55372013651876,
+    "h": 34.6767417519909
+  },
+  "23": {
+    "name": "called",
+    "variableName": "lang_lotr_elvish_called",
+    "x": 148.4470260068241,
+    "y": 3120.291609078973,
+    "size_multiplier": 0.36533333333333334,
+    "highlighted": false,
+    "w": 123.33304209328783,
+    "h": 53.97955858930603
+  },
+  "24": {
+    "name": "babel",
+    "variableName": "lang_english_babel",
+    "x": 198.32399404649573,
+    "y": 2974.525053479081,
+    "size_multiplier": 0.27399999999999997,
+    "highlighted": false,
+    "w": 149.63953583617746,
+    "h": 53.296273037542655
+  },
+  "25": {
+    "name": "babel",
+    "variableName": "lang_dnd_dwarvish_babel",
+    "x": 375.1634023500943,
+    "y": 3212.652162767191,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 139.90271672354947,
+    "h": 35.87249146757679
+  },
+  "26": {
+    "name": "babel",
+    "variableName": "lang_dnd_elvish_babel",
+    "x": 78.84473643446849,
+    "y": 2986.2378102097045,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 97.45360182025028,
+    "h": 37.66611604095563
+  },
+  "27": {
+    "name": "babel",
+    "variableName": "lang_dnd_giant_babel",
+    "x": 402.20785653795843,
+    "y": 3023.853211319457,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 107.01959954493742,
+    "h": 33.480992036405006
+  },
+  "28": {
+    "name": "babel",
+    "variableName": "lang_dnd_gnomish_babel",
+    "x": 388.5301362341552,
+    "y": 3313.8447325491566,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 110.6068486916951,
+    "h": 34.6767417519909
+  },
+  "29": {
+    "name": "babel",
+    "variableName": "lang_lotr_elvish_babel",
+    "x": 145.54684767630673,
+    "y": 3175.2824058028095,
+    "size_multiplier": 0.36533333333333334,
+    "highlighted": false,
+    "w": 198.49445278725827,
+    "h": 74.13648236632537
+  },
+  "30": {
+    "name": "0",
+    "variableName": "number_normal_0",
+    "x": 41.32846025499624,
+    "y": 3321.647523964328,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 39.97220477815699,
+    "h": 63.033092150170646
+  },
+  "31": {
+    "name": "0",
+    "variableName": "number_dnd_dethek_0",
+    "x": 18.494878415147554,
+    "y": 3650.0915956133017,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 80.11523094425483,
+    "h": 52.61298748577929
+  },
+  "32": {
+    "name": "0",
+    "variableName": "number_dnd_espruar_0",
+    "x": 14.426900112244365,
+    "y": 3668.6468321846114,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 83.27542662116042,
+    "h": 7.686962457337885
+  },
+  "33": {
+    "name": "0",
+    "variableName": "number_dnd_infernal_0",
+    "x": 9.8962438584556,
+    "y": 3797.0170100354453,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 50.81936291240046,
+    "h": 46.03636405005688
+  },
+  "34": {
+    "name": "0",
+    "variableName": "number_lotr_eldar_0",
+    "x": 21.228748660289593,
+    "y": 3935.253444576903,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 46.03636405005688,
+    "h": 53.210862343572245
+  },
+  "35": {
+    "name": "0",
+    "variableName": "number_starwars_new_aurubesh_0",
+    "x": 27.635154167062765,
+    "y": 4262.263260169283,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 22.0359590443686,
+    "h": 22.548423208191124
+  },
+  "36": {
+    "name": "1",
+    "variableName": "number_normal_1",
+    "x": 103.38483793905354,
+    "y": 3330.4373556813157,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 36.384955631399315,
+    "h": 62.008163822525596
+  },
+  "37": {
+    "name": "1",
+    "variableName": "number_dnd_dethek_1",
+    "x": 24.20851695494236,
+    "y": 3515.279098213808,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 26.306493742889646,
+    "h": 40.05761547212742
+  },
+  "38": {
+    "name": "1",
+    "variableName": "number_dnd_espruar_1",
+    "x": 94.50768472982652,
+    "y": 3660.1564592307814,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 55.089897610921504,
+    "h": 60.21453924914676
+  },
+  "39": {
+    "name": "1",
+    "variableName": "number_dnd_infernal_1",
+    "x": 87.22488468819986,
+    "y": 3797.793787794153,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 31.687367463026167,
+    "h": 49.62361319681457
+  },
+  "40": {
+    "name": "1",
+    "variableName": "number_lotr_eldar_1",
+    "x": 60.09476437837233,
+    "y": 3997.357846714391,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 53.80873720136519,
+    "h": 52.61298748577929
+  },
+  "41": {
+    "name": "1",
+    "variableName": "number_starwars_new_aurubesh_1",
+    "x": 28.15265687404737,
+    "y": 4314.298579028455,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 49.70902389078498,
+    "h": 22.548423208191124
+  },
+  "42": {
+    "name": "2",
+    "variableName": "number_normal_2",
+    "x": 170.66763405621674,
+    "y": 3359.3079675237796,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 37.922348122866886,
+    "h": 62.008163822525596
+  },
+  "43": {
+    "name": "2",
+    "variableName": "number_dnd_dethek_2",
+    "x": 65.73215208726076,
+    "y": 3515.218524234431,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 46.63423890784983,
+    "h": 40.65549032992036
+  },
+  "44": {
+    "name": "2",
+    "variableName": "number_dnd_espruar_2",
+    "x": 171.99462998065593,
+    "y": 3633.9351856676844,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 64.0580204778157,
+    "h": 61.49569965870308
+  },
+  "45": {
+    "name": "2",
+    "variableName": "number_dnd_infernal_2",
+    "x": 159.008920112908,
+    "y": 3801.270269580022,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 45.43848919226394,
+    "h": 47.23211376564277
+  },
+  "46": {
+    "name": "2",
+    "variableName": "number_lotr_eldar_2",
+    "x": 149.72449033793114,
+    "y": 3995.157335977433,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 93.8663526734926,
+    "h": 54.406612059158135
+  },
+  "47": {
+    "name": "2",
+    "variableName": "number_starwars_new_aurubesh_2",
+    "x": 31.02589296889128,
+    "y": 4375.7240578177,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 49.70902389078498,
+    "h": 48.68409556313993
+  },
+  "48": {
+    "name": "3",
+    "variableName": "number_normal_3",
+    "x": 231.15065116624527,
+    "y": 3365.2135649306488,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 37.409883959044365,
+    "h": 63.033092150170646
+  },
+  "49": {
+    "name": "3",
+    "variableName": "number_dnd_dethek_3",
+    "x": 125.94924827505226,
+    "y": 3515.1738907759423,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 69.95135836177474,
+    "h": 41.25336518771331
+  },
+  "50": {
+    "name": "3",
+    "variableName": "number_dnd_espruar_3",
+    "x": 230.2592980236511,
+    "y": 3634.9408530008873,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 80.71310580204779,
+    "h": 55.089897610921504
+  },
+  "51": {
+    "name": "3",
+    "variableName": "number_dnd_infernal_3",
+    "x": 240.95193224117577,
+    "y": 3805.0779340836234,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 46.63423890784983,
+    "h": 50.22148805460751
+  },
+  "52": {
+    "name": "3",
+    "variableName": "number_lotr_eldar_3",
+    "x": 269.44555225454656,
+    "y": 3997.0143152455134,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 123.16222070534698,
+    "h": 53.210862343572245
+  },
+  "53": {
+    "name": "3",
+    "variableName": "number_starwars_new_aurubesh_3",
+    "x": 124.41109347247149,
+    "y": 4350.751280312092,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 49.70902389078498,
+    "h": 75.33223208191124
+  },
+  "54": {
+    "name": "4",
+    "variableName": "number_normal_4",
+    "x": 305.2418626075421,
+    "y": 3360.914544960038,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 44.58438225255972,
+    "h": 61.49569965870307
+  },
+  "55": {
+    "name": "4",
+    "variableName": "number_dnd_dethek_4",
+    "x": 207.103146227818,
+    "y": 3517.050520594966,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 94.46422753128554,
+    "h": 41.25336518771331
+  },
+  "56": {
+    "name": "4",
+    "variableName": "number_dnd_espruar_4",
+    "x": 329.6570539447315,
+    "y": 3628.5147985202166,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 76.86962457337884,
+    "h": 60.21453924914676
+  },
+  "57": {
+    "name": "4",
+    "variableName": "number_dnd_infernal_4",
+    "x": 313.7090967605422,
+    "y": 3808.515177908605,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 42.449114903299204,
+    "h": 52.01511262798635
+  },
+  "58": {
+    "name": "4",
+    "variableName": "number_lotr_eldar_4",
+    "x": 447.1234715576153,
+    "y": 3958.1532776463723,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 49.025738339021615,
+    "h": 105.82384982935153
+  },
+  "59": {
+    "name": "4",
+    "variableName": "number_starwars_new_aurubesh_4",
+    "x": 229.03266263547962,
+    "y": 4376.024411367094,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 50.221488054607505,
+    "h": 48.68409556313993
+  },
+  "60": {
+    "name": "5",
+    "variableName": "number_normal_5",
+    "x": 384.83840845607415,
+    "y": 3372.807618558547,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 37.922348122866886,
+    "h": 65.08294880546075
+  },
+  "61": {
+    "name": "5",
+    "variableName": "number_dnd_dethek_5",
+    "x": 317.2487054058498,
+    "y": 3502.9852465785325,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 26.306493742889646,
+    "h": 56.79811149032992
+  },
+  "62": {
+    "name": "5",
+    "variableName": "number_dnd_espruar_5",
+    "x": 424.61188255022233,
+    "y": 3636.7136390687674,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 57.65221843003414,
+    "h": 57.65221843003414
+  },
+  "63": {
+    "name": "5",
+    "variableName": "number_dnd_infernal_5",
+    "x": 14.541713397757388,
+    "y": 3856.319645606169,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 32.88311717861206,
+    "h": 49.025738339021615
+  },
+  "64": {
+    "name": "5",
+    "variableName": "number_lotr_eldar_5",
+    "x": 21.583345587102542,
+    "y": 4077.5096096149477,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 89.08335381114904,
+    "h": 105.22597497155859
+  },
+  "65": {
+    "name": "5",
+    "variableName": "number_starwars_new_aurubesh_5",
+    "x": 345.7583424690462,
+    "y": 4375.12255907375,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 50.221488054607505,
+    "h": 48.68409556313993
+  },
+  "66": {
+    "name": "6",
+    "variableName": "number_normal_6",
+    "x": 447.84871082283394,
+    "y": 3364.625141297595,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 40.99713310580204,
+    "h": 63.033092150170646
+  },
+  "67": {
+    "name": "6",
+    "variableName": "number_dnd_dethek_6",
+    "x": 17.237662945903757,
+    "y": 3567.1858224475327,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 49.62361319681457,
+    "h": 56.79811149032992
+  },
+  "68": {
+    "name": "6",
+    "variableName": "number_dnd_espruar_6",
+    "x": 466.76075220469716,
+    "y": 3692.918370316757,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 65.33918088737202,
+    "h": 64.0580204778157
+  },
+  "69": {
+    "name": "6",
+    "variableName": "number_dnd_infernal_6",
+    "x": 87.3499442322871,
+    "y": 3859.434925696314,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 26.904368600682595,
+    "h": 48.42786348122867
+  },
+  "70": {
+    "name": "6",
+    "variableName": "number_lotr_eldar_6",
+    "x": 136.63615059531665,
+    "y": 4078.670308034583,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 124.95584527872583,
+    "h": 105.22597497155859
+  },
+  "71": {
+    "name": "6",
+    "variableName": "number_starwars_new_aurubesh_6",
+    "x": 458.06134282601073,
+    "y": 4376.04853468341,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 50.221488054607505,
+    "h": 75.84469624573377
+  },
+  "72": {
+    "name": "10",
+    "variableName": "number_normal_10",
+    "x": 33.7160019393922,
+    "y": 3418.8764863049346,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 91.73108532423207,
+    "h": 73.79483959044369
+  },
+  "73": {
+    "name": "10",
+    "variableName": "number_dnd_dethek_10",
+    "x": 77.66638621932965,
+    "y": 3568.9189433401466,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 31.687367463026167,
+    "h": 53.80873720136519
+  },
+  "74": {
+    "name": "10",
+    "variableName": "number_dnd_espruar_10",
+    "x": 14.646709573510922,
+    "y": 3724.083325661863,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 97.36819112627987,
+    "h": 60.21453924914676
+  },
+  "75": {
+    "name": "10",
+    "variableName": "number_dnd_infernal_10",
+    "x": 163.9177200408207,
+    "y": 3859.9439223214836,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 86.69185437997724,
+    "h": 49.025738339021615
+  },
+  "76": {
+    "name": "10",
+    "variableName": "number_lotr_eldar_10",
+    "x": 272.69661404020076,
+    "y": 4071.649017205675,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 52.61298748577929,
+    "h": 80.71310580204779
+  },
+  "77": {
+    "name": "10",
+    "variableName": "number_starwars_new_aurubesh_10",
+    "x": 31.74322514025111,
+    "y": 4458.788780410124,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 95.31833447098975,
+    "h": 22.548423208191124
+  },
+  "78": {
+    "name": "15",
+    "variableName": "number_normal_15",
+    "x": 161.6834347589706,
+    "y": 3435.3060594835606,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 86.0939795221843,
+    "h": 66.62034129692833
+  },
+  "79": {
+    "name": "15",
+    "variableName": "number_dnd_dethek_15",
+    "x": 122.3979174809751,
+    "y": 3567.4548302637404,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 60.3853606370876,
+    "h": 52.01511262798635
+  },
+  "80": {
+    "name": "15",
+    "variableName": "number_dnd_espruar_15",
+    "x": 120.09539120531113,
+    "y": 3712.2133040476856,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 116.58559726962459,
+    "h": 70.46382252559728
+  },
+  "81": {
+    "name": "15",
+    "variableName": "number_dnd_infernal_15",
+    "x": 316.19083154943814,
+    "y": 3875.8248984688375,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 69.3534835039818,
+    "h": 50.22148805460751
+  },
+  "82": {
+    "name": "15",
+    "variableName": "number_lotr_eldar_15",
+    "x": 345.2866400041155,
+    "y": 4133.565520547502,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 189.52632992036405,
+    "h": 66.36410921501707
+  },
+  "83": {
+    "name": "15",
+    "variableName": "number_starwars_new_aurubesh_15",
+    "x": 181.4279127965523,
+    "y": 4458.536974584589,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 122.99139931740613,
+    "h": 48.68409556313993
+  },
+  "84": {
+    "name": "16",
+    "variableName": "number_normal_16",
+    "x": 272.2776226345962,
+    "y": 3424.3544418011165,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 99.93051194539248,
+    "h": 74.81976791808873
+  },
+  "85": {
+    "name": "16",
+    "variableName": "number_dnd_dethek_16",
+    "x": 195.63163690941545,
+    "y": 3569.3353880882523,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 80.11523094425483,
+    "h": 52.61298748577929
+  },
+  "86": {
+    "name": "16",
+    "variableName": "number_dnd_espruar_16",
+    "x": 231.42185043580173,
+    "y": 3712.5854210747543,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 133.2406825938567,
+    "h": 70.46382252559728
+  },
+  "87": {
+    "name": "16",
+    "variableName": "number_dnd_infernal_16",
+    "x": 458.9035820075838,
+    "y": 3883.5044665322575,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 60.98323549488055,
+    "h": 49.62361319681457
+  },
+  "88": {
+    "name": "16",
+    "variableName": "number_lotr_eldar_16",
+    "x": 54.1350213434651,
+    "y": 4183.915654470682,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 110.6068486916951,
+    "h": 117.18347212741752
+  },
+  "89": {
+    "name": "16",
+    "variableName": "number_starwars_new_aurubesh_16",
+    "x": 399.18046908880586,
+    "y": 4463.821960149568,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 122.99139931740613,
+    "h": 75.84469624573377
+  },
+  "90": {
+    "name": "20",
+    "variableName": "number_normal_20",
+    "x": 413.40359887255937,
+    "y": 3443.3171432838417,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 106.0800819112628,
+    "h": 72.76991126279863
+  },
+  "91": {
+    "name": "20",
+    "variableName": "number_dnd_dethek_20",
+    "x": 286.8504376892553,
+    "y": 3568.2795808455326,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 60.3853606370876,
+    "h": 52.01511262798635
+  },
+  "92": {
+    "name": "20",
+    "variableName": "number_dnd_espruar_20",
+    "x": 357.5061022321305,
+    "y": 3722.5378894414744,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 97.36819112627987,
+    "h": 60.21453924914676
+  },
+  "93": {
+    "name": "20",
+    "variableName": "number_dnd_infernal_20",
+    "x": 119.57423296842562,
+    "y": 3933.055783603677,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 100.44297610921502,
+    "h": 47.82998862343572
+  },
+  "94": {
+    "name": "20",
+    "variableName": "number_lotr_eldar_20",
+    "x": 183.61616229969806,
+    "y": 4202.456715974624,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 163.2198361774744,
+    "h": 129.7388441410694
+  },
+  "95": {
+    "name": "20",
+    "variableName": "number_starwars_new_aurubesh_20",
+    "x": 133.09005373895707,
+    "y": 4532.342007279174,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 95.31833447098975,
+    "h": 50.733952218430034
+  },
+  "96": {
+    "name": "100",
+    "variableName": "number_normal_100",
+    "x": 399.877697042964,
+    "y": 3527.3943848020326,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 128.6285051194539,
+    "h": 68.15773378839589
+  },
+  "97": {
+    "name": "100",
+    "variableName": "number_dnd_dethek_100",
+    "x": 360.0799857134662,
+    "y": 3500.0759155482256,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 31.687367463026167,
+    "h": 98.05147667804323
+  },
+  "98": {
+    "name": "100",
+    "variableName": "number_dnd_espruar_100",
+    "x": 381.87424985841415,
+    "y": 3788.449377210655,
+    "size_multiplier": 1.37,
+    "highlighted": false,
+    "w": 142.20880546075088,
+    "h": 79.43194539249149
+  },
+  "99": {
+    "name": "100",
+    "variableName": "number_dnd_infernal_100",
+    "x": 275.7130325305878,
+    "y": 3934.131775633726,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 135.1197178612059,
+    "h": 50.22148805460751
+  },
+  "100": {
+    "name": "100",
+    "variableName": "number_lotr_eldar_100",
+    "x": 372.8309954432453,
+    "y": 4223.793402063218,
+    "size_multiplier": 0.6393333333333333,
+    "highlighted": false,
+    "w": 162.02408646188852,
+    "h": 129.7388441410694
+  },
+  "101": {
+    "name": "100",
+    "variableName": "number_starwars_new_aurubesh_100",
+    "x": 250.43614928166267,
+    "y": 4532.9356430229545,
+    "size_multiplier": 0.5479999999999999,
+    "highlighted": false,
+    "w": 141.44010921501706,
+    "h": 22.548423208191124
+  }
+}
