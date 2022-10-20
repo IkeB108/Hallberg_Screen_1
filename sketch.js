@@ -238,7 +238,7 @@ function draw(){
           let x = lod.x + (all_symbols[i].w/2)
           let y = lod.y + (all_symbols[i].h/2)
           
-          let cursorSize = width/10 * ( 1 + ( sin(frameCount/15) * 0.12 ) )
+          let cursorSize = width/10 * ( 1 + ( sin(frameCount/15) * 0.18 ) )
           image(window['cursor' + n], x, y, cursorSize, cursorSize )
           break;
         }
@@ -248,7 +248,7 @@ function draw(){
     if(!scrolledSinceLastIdle && framesIdle < 70 * 6){
       let n = floor(frameCount/20) % 2
       let img = window["scrollWheel" + n]
-      let w = width/6
+      let w = width/4
       let h = img.height * (w/img.width)
       image(window['scrollWheel' + n], 10, 10, w, h)
     }
